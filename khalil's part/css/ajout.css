@@ -1,0 +1,10 @@
+body
+{background-image: url(b.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.input{
+	 width: 50%;
+  box-sizing: border-box;
+}
