@@ -1,0 +1,20 @@
+
+div.jumbotron
+{
+width:800px;
+margin-left: 320px;
+margin-top: 120px;
+height:800px;
+
+}
+body{background-image: url("s2.jpg");
+background-repeat: no-repeat;}
+.btn-dark
+{width:100px;
+margin-left: 300px;}
+.foot
+{
+   background-color: #343a40;
+   color:white;
+   height: 100px;
+}
